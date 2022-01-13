@@ -16,6 +16,8 @@ O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecno
 
 ## SUMÁRIO
 
+- [Habilidades desenvolvidas](#habilidades-desenvolvidas)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Requisitos do projeto](#requisitos-do-projeto)
   - [1 - Exiba os países e indicando se cada um deles se encontra ou não na região formada pela Europa](#1---exiba-os-países-e-indicando-se-cada-um-deles-se-encontra-ou-não-na-região-formada-pela-europa)
   - [2 - Exiba os cargos com seu nível de renumeração associado, com base no salário máximo do cargo](#2---exiba-os-cargos-com-seu-nível-de-renumeração-associado-com-base-no-salário-máximo-do-cargo)
@@ -40,7 +42,7 @@ O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecno
 
 ---
 
-## Habilidades
+## Habilidades desenvolvidas
 
 - Criar condicionais no **SQL** usando **IF** e **CASE**
 - Manipular _strings_ no **SQL**
